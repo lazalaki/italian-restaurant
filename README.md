@@ -1,8 +1,8 @@
-#Vivify Internship task
+# Vivify Internship task
 
 Restaurant simulation
 
-##How to run
+## How to run
 
 ```
 php main.php
